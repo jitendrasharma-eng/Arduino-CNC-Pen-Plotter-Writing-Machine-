@@ -105,8 +105,7 @@
 <h2>🚀 Installation & Setup</h2>
 <ol>
     <li>Clone this repository:
-        <pre>git clone https://github.com/your-username/writing-cnc.git
-cd writing-cnc</pre>
+        <pre>git clone https://github.com/jitendrasharma-eng/Arduino-CNC-Pen-Plotter-Writing-Machine-.git</pre>
     </li>
     <li>Upload Arduino Code:
         <ul>
